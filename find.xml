@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Slap'" />
-    <option name="defaultScopeName" value="Project 'Slap'" />
+    <option name="customScope" value="File '.../build.gradle [Slap]'" />
+    <option name="defaultScopeName" value="File '.../build.gradle [Slap]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Slap'" />
+    <option name="SEARCH_SCOPE" value="File '.../build.gradle [Slap]'" />
   </component>
 </application>
